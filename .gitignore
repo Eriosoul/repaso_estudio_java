@@ -90,3 +90,4 @@ nb-configuration.xml
 ## Miscellaneous
 ##############################
 *.log
+/GestionLibrosBiblioteca/nbproject/private/
